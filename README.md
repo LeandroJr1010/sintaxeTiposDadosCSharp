@@ -1,5 +1,4 @@
-# 📘 SintaxeTiposDadosCSharp
-
+# 📘 SintaxeTiposDadosC#
 Este repositório contém um conjunto de exemplos comentados em C# com foco em **sintaxe básica**, **tipos de dados**, **estrutura de controle**, **casting**, **coleções**, e muito mais. O objetivo é servir como material de estudo e revisão pessoal para quem está aprendendo ou reforçando conceitos fundamentais da linguagem.
 
 ---
