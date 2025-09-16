@@ -1,0 +1,6 @@
+// Automatizar o recolhimento de blocos de código sempre que abrir seus arquivos no VS Code
+{
+    "editor.folding": true,
+    "editor.foldingStrategy": "auto",
+    "editor.foldLevel": 1
+}
